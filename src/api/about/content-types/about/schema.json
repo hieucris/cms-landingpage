@@ -7,6 +7,7 @@
     "displayName": "About",
     "description": "Write about yourself and the content you create"
   },
+
   "options": {
     "draftAndPublish": false
   },
@@ -17,7 +18,12 @@
     },
     "blocks": {
       "type": "dynamiczone",
-      "components": ["shared.media", "shared.quote", "shared.rich-text", "shared.slider"]
+      "components": [
+        "shared.media",
+        "shared.quote",
+        "shared.rich-text",
+        "shared.slider"
+      ]
     }
   }
 }
