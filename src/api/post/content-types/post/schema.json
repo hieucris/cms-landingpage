@@ -45,9 +45,8 @@
     },
     "category": {
       "type": "relation",
-      "relation": "manyToOne",
-      "target": "api::category.category",
-      "inversedBy": "posts"
+      "relation": "oneToOne",
+      "target": "api::category.category"
     }
   }
 }

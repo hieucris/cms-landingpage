@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2,
+    "documentId": "gks7qtmi8rtjo21cpwtag8ob",
+    "name": "Tin công ty",
+    "slug": "tin-cong-ty",
+    "createdAt": "2025-07-06T11:43:08.580Z",
+    "updatedAt": "2025-07-06T11:43:08.580Z",
+    "publishedAt": "2025-07-06T11:43:08.588Z",
+    "posts": []
+  },
+  {
+    "id": 4,
+    "documentId": "yytqk21idd08fvs6phv1dtb4",
+    "name": "Xu hướng ngành",
+    "slug": "xu-huong-nganh",
+    "createdAt": "2025-07-06T11:43:08.625Z",
+    "updatedAt": "2025-07-06T11:43:08.625Z",
+    "publishedAt": "2025-07-06T11:43:08.632Z",
+    "posts": []
+  },
+  {
+    "id": 6,
+    "documentId": "e5364e6ulendz6hqhjin98k8",
+    "name": "Cập nhật",
+    "slug": "cap-nhat",
+    "createdAt": "2025-07-06T11:43:08.655Z",
+    "updatedAt": "2025-07-06T11:43:08.655Z",
+    "publishedAt": "2025-07-06T11:43:08.667Z",
+    "posts": []
+  },
+  {
+    "id": 8,
+    "documentId": "mwjxwbkbwsclcsg30g5taqkv",
+    "name": "Giải thưởng",
+    "slug": "giai-thuong",
+    "createdAt": "2025-07-06T11:43:08.692Z",
+    "updatedAt": "2025-07-06T11:43:08.692Z",
+    "publishedAt": "2025-07-06T11:43:08.701Z",
+    "posts": []
+  }
+]
