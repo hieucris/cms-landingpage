@@ -1,6 +1,6 @@
 import fetch from 'node-fetch';
 
-const API_URL = 'http://localhost:1337/api';
+const API_URL = 'https://cms-landingpage.onrender.com/api';
 const API_TOKEN = 'dbe30afa71fc37b71688bded3c0e5243fde200586cb4dd8807d3d1e01e9f3095a4a766a4b428e1ac7baf083438817e0c139cef58e4092e52a33b789224eb1ab943372dd90d1d90b8f1497aa7e5c75ea332c89bd8b0cf5f51983ae0b69ca1c1e414f206194610e92bfcdebde7e4eb9038554f373faba2aec2814ee15196076ac3';
 
 const categories = [
