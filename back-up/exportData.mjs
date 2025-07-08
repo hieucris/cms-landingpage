@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 import fs from 'fs';
 
-const API_URL = 'http://localhost:1337/api';
+const API_URL = 'https://cms-landingpage.onrender.com/api';
 
 async function fetchData(endpoint) {
   const res = await fetch(`${API_URL}/${endpoint}?populate=*`);
